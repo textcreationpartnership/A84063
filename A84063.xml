@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The babe of glory, breaking forth in the broken flesh of the saints breathing out the life of God (hid in their flesh) now to be revealed and raised, Isa. 40. 5, 6. By William Erbery.</title>
+            <author>Erbery, William, 1604-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84063</idno>
+            <idno type="STC">Wing E3222</idno>
+            <idno type="STC">Thomason E718_7</idno>
+            <idno type="STC">Thomason E718_8</idno>
+            <idno type="STC">Thomason E718_9</idno>
+            <idno type="STC">ESTC R207188</idno>
+            <idno type="EEBO-CITATION">99866258</idno>
+            <idno type="PROQUEST">99866258</idno>
+            <idno type="VID">166746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166746)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E718[7] and 111:E718[8] or 111:E718[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The babe of glory, breaking forth in the broken flesh of the saints breathing out the life of God (hid in their flesh) now to be revealed and raised, Isa. 40. 5, 6. By William Erbery.</title>
+                  <author>Erbery, William, 1604-1654.</author>
+               </titleStmt>
+               <extent>[6], 10, [4], 142, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for Giles Calvet [sic], at the signe of the Black spread-Eagle, at the West end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>'The north star' has separate dated title page; pagination is separate, register is continuous.</note>
+                  <note>With a final errata leaf.</note>
+                  <note>The north star = Thomason E.718[8]; The woman preacher = Thomason E.718[9].</note>
+                  <note>Annotation on Thomason copy: "Nouember 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>'The woman preacher: or, the man of war.' begins on p. 77 with a caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pastoral letters and charges.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166746:1" rendition="simple:additions"/>
+            <p>THE BABE OF GLORY, Breaking forth in the broken Fleſh OF THE SAINTS Breathing out The Life of God (Hid in their Fleſh) now to be revealed and raiſed, <hi>Iſa.</hi> 40.5, 6.</p>
+            <p>BY WILLIAM ERBERY.</p>
+            <q>
+               <p>And ſhe brought forth a Man child who was to rule the Nati<g ref="char:EOLhyphen"/>tions with a rod of Iron, and the child was caught up to God and to his throne.</p>
+               <bibl>
+                  <hi>Rev. 12.2, 5.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. C.</hi> For <hi>Giles Calvet,</hi> at the Signe of the Black ſpread-Eagle, at the Weſt end of <hi>Pauls,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb facs="tcp:166746:2"/>
+            <pb facs="tcp:166746:2"/>
+            <head>A Preface to the following Letters.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Goſpel is a myſtery, the myſtery of the Goſpel is <hi>Chriſt in us the hope of glory,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 16.25. <hi>Eph.</hi> 3.3. <hi>Col.</hi> 4.3, 4. 1 <hi>Cor.</hi> 14, 26</note> Col. 1.27. The manifeſtation of the Spirit <hi>in manifold gifts,</hi> was moſt neceſſary for thoſe who ſhould manifeſt the Myſtery of <hi>God</hi> to men; three gifts eſpecially, of a <hi>tongue, interpretation, and revelation;</hi> a <hi>tounge,</hi> to open the Original, as to utter it to all Nations. The gift of <hi>In<g ref="char:EOLhyphen"/>terpretation,</hi> to interpret Scriptures infallibly tranſlated, and to tranſcribe the thoughts and writings even of heathen Poets to a holy ſenſe of the Myſtery of God. The Spirit of <hi>revelation</hi> was not only that which was common to Saints, <hi>Eph.</hi> 1.17. but a ſpecial gift of the Spirit, to <hi>reveal both the Myſtery</hi> of Chriſt, <hi>Eph.</hi> 3.3. and by that mighty power working in them, to <hi>preſent every man in Chriſt,</hi> Col. 1.27, 28, 29.</p>
+            <p>According to that meaſure of the ſpirit in me (being in much confuſion, even in <hi>Babylon</hi> with all the Saints) I ſhall manifeſt this Myſtery, as 'tis made known to me by the teaching of God in my Spirit.</p>
+            <p>Firſt, I ſay, that the Myſtery of the Goſpel, or of God, is Chriſt in us the hope of glory; the glory, is God in mans fleſh, <hi>Zach.</hi> 2.5. Chriſt in us, is God
+<pb facs="tcp:166746:3"/>manifeſt in our fleſh as in his;<note place="margin">
+                  <hi>Joh.</hi> 14.20.</note> Chriſt in us <hi>is called the hope of glory,</hi> becauſe they in whom Chriſt is revealed, have the <hi>glory ſo revealed</hi> in them, as to wait for it in themſelves, as 'twas in him when raiſed from the dead.</p>
+            <p>For as Chriſt was the brightneſs of his fathers glory, and this glory vailed in fleſh while he lived in it: ſo in death his fleſh being crucified and ſlaine to God, God raiſed it up to glory the third day, and ſo the glo<g ref="char:EOLhyphen"/>ry was revealed:<note place="margin">1 <hi>Pet.</hi> 1.21.</note> This was to manifeſt the Myſtery of God in us; the ſame God and father being in our fleſh as in his,<note place="margin">
+                  <hi>Phil.</hi> 3.11.</note> will raiſe us up to the ſame glory of Chriſt riſen. This reſurrection of the dead, was that which the Apoſtle had not attained to,<note place="margin">1 <hi>Cor.</hi> 15.</note> yet waited for, and all the faith of Goſpel-ſaints, was ſo exerciſed in this Reſurrection,<note place="margin">2 <hi>Cor.</hi> 4.10.</note> that they <hi>alwayes bare in their bodies the dying of the Lord Jeſus, that the life of Ieſus might be manifeſt in their mortal fleſh;</hi> that as, Chriſt though liv<g ref="char:EOLhyphen"/>ing in the fleſh, his life was in the Father, and this fully manifeſt in his reſurrection, when his body was ſo glo<g ref="char:EOLhyphen"/>rious, that nothing but God, even the glory appeared in him: ſo when <hi>Ieſus ſhall deſcend from heaven,</hi> from his hidden Diety or Godhead, and come down in the Spirit, fully manifeſt in our fleſh, <hi>we ſhall be changed and raiſed up to the ſame glory,</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.3.</note> even to the life of God him<g ref="char:EOLhyphen"/>ſelf; for as <hi>our life is now hid with Chriſt in God;</hi> ſo when Chriſt who is our life ſhall appear (fully in us) <hi>we ſhall appear with him in glory;</hi> but we muſt ſuffer firſt, and dye to fleſh as he did, before we live and reign with him.</p>
+            <p>The firſt reſurrection and reign of the Saints with Chriſt, is a more ſpiritual Myſtery then carnal Chri<g ref="char:EOLhyphen"/>ſtians
+<pb facs="tcp:166746:3"/>and Churches commonly conceive; 'tis not in worldly government and outward glory, but in that glory aforeſaid to be revealed in us, when we ſhall (as Chriſt raiſed) <hi>rule the Nations with a rod of iron,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 2.26, 27. <hi>Rev.</hi> 3.21. <hi>Ier.</hi> 51.21, 22. <hi>Zach.</hi> 10.5. 1 <hi>Cor.</hi> 6.2.</note> and daſh them in pieces like a potters veſſel, not onely Churches and Kingdoms, but Armies and horſemen we ſhall <hi>tread down as durt in the ſtreet:</hi> yea, we ſhall <hi>ſit in the throne of God with Christ,</hi> being above all things below God, and <hi>judge the world of Angels and men;</hi> not only Angels of Churches, but all that is of a carnal principle, and Power on Earth.</p>
+            <p>This Reſurrection and reign of the Saints, I call often a third diſpenſation: for as Chriſt and the glory was re<g ref="char:EOLhyphen"/>vealed but in part, even in the Apoſtles themſelvs, who knew but in part, and propheſied but in part: ſo all of that ſecond diſpenſation went no further then death, they were <hi>baptiſed into Chriſts</hi> death; by breaking of bread, <hi>ſhewed forth his death</hi> in them, they being in a dy<g ref="char:EOLhyphen"/>ing and ſuffering condition; but in the third diſpenſa<g ref="char:EOLhyphen"/>tion, typified by the <hi>third dayes reſurrection, the Body of Chriſt the Saints ſhall ſo riſe in the Spirit,</hi> and their life hid before, ſhal be ſo fully manifeſt in their fleſh, that nothing but God, nothing but glory ſhall appear in them: yea, they ſhall ſo riſe and ſhine, that the <hi>glory ſhall riſe upon them,</hi> and the glory ſhall be not only in them, but ſo on them,<note place="margin">
+                  <hi>Iſa.</hi> 60.1.14. <hi>Iſa.</hi> 61.9.</note> that both themſelves and all thoſe that ſhall acknowledge that they are the ſeed whom the Lord hath bleſſed. No man ſhall dare to curſe or blaſ<g ref="char:EOLhyphen"/>pheme, not trouble nor touch them, no more then Chriſt was when raiſed from the dead.</p>
+            <p>Theſe are the <hi>Saints of the moſt high</hi> this day, who are above all forms, and fleſh, not in attainment or preſent enjoyment, but in pure apprehenſion, perfect convicti<g ref="char:EOLhyphen"/>on, and patient waiting for it.</p>
+            <p>
+               <pb facs="tcp:166746:4"/>
+While waiting, they are as a <hi>woman with child,</hi> to bring forth <hi>the Babe, the firſt born of glory in themſelves;</hi> that is, to bring forth Chriſt fully in their fleſh; but their fleſh muſt ſuffer firſt, as Chriſts did, before glory was brought forth, and <hi>he begotten in the reſurrection.</hi>
+            </p>
+            <p>Thus the Saints did ſuffer as a <hi>woman in travel before the man child, before Chriſt</hi> in the Spirit was brought forth in the Goſpel or ſecond diſpenſation, <hi>Iohn</hi> 16.20. 'Twas ſo, and 'tis ſo now under the Apoſtacy; the Church or people of God are as the woman in heaven, <hi>who travels in paine to be delivered of the Man child,</hi> Rev. 12.2. but when the third diſpenſation comes, there will be ſorer pangs and throws on all the Saints, who ſhall ſuffer more then ever any before; their ſufferings being more great and general, even on the whole body, <hi>Ier.</hi> 30.6. <hi>For a man ſhall travel with child, yea every Man ſhall be as a woman in travel.</hi> 'Twas but a child, the <hi>child Ieſus</hi> was brought forth in the goſpel-diſpenſation, <hi>Act.</hi> 4 27. when we all come to a <hi>perfect man,</hi> to the mea<g ref="char:EOLhyphen"/>ſure of <hi>the ſtatute of the fulneſs of Chriſt,</hi> then the pro<g ref="char:EOLhyphen"/>pheſie is fulfilled, <hi>A woman ſhall compaſs a man,</hi> Jer. 31.33. 'tis not a <hi>Babe</hi> now, nor a <hi>child</hi> any more, but <hi>A man,</hi> that's the mighty God is brought forth in glory.</p>
+            <p>
+               <hi>Chriſtina Regina Sueciae.</hi> Anagram,</p>
+            <lg>
+               <l>
+                  <hi>Hic eſt in viragine Caeſar.</hi>
+               </l>
+               <l>Here's <hi>Caeſar</hi> in a manly woman.</l>
+            </lg>
+            <closer>
+               <signed>A word in ſeaſon By a Suediſh Scholar.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="1" facs="tcp:166746:4"/>
+            <head>From Wales.</head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>FLeſh is burning ſo faſt with us here, and elſwhere, that I cannot tranſcribe what is written within for preſent; your lines are bleſſed to me, and therefore may I ſay, Do not impriſon the truth from me in un<g ref="char:EOLhyphen"/>righteouſnes. I am a child, but not yet little enough; I long for the promiſed ſlumberings, for he giveth his beloved ſleep, that is, Reſt from his own thoughts in the ſecret chamber, till the indignation be overpaſt. If you be got into the Cradle of innocency, you are taught of him (who is nothing that can be ſeen with the natural minde) and can but cry in that Cradle. And when you cry <hi>Abba,</hi> forget not your poor, tryed, tempt<g ref="char:EOLhyphen"/>ed, tyred, and through mercy ſuſtained and renewed Lover and Brother,</p>
+            <closer>
+               <signed>M. L.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>From Ireland.</head>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>LInes are too low to manifeſt endearendeſs of love in union, yet muſt I borrow ſome of thoſe beggerly and vaniſhing appearances for to ſalute you withall; my rejoycing is, to behold darkneſs and ru<g ref="char:EOLhyphen"/>ine upon all fleſhly gloryings, and former excellencies, wherein ſo many vaine boaſtings have appeared. Well! confuſion and a poor mournful dying ſpirit is my ſtate, the very life and vigor of all know<g ref="char:EOLhyphen"/>ledge is taken away from me; <hi>I</hi> hear no news of him or from him but lye ſlaine under the Altar, and ſay, How long Lord will it be ere thou come forth and reveal thy ſelf<g ref="char:punc">▪</g> to ſave all fleſh with a vengeance, and to plague every apprehenſion into truth! Well dear life, eat and drink abundantly, expend thy ſelf upon thy own, for there is enough to ſatisfie and content thee. I can ſay no more, but retire home into my root from whence I came forth, and where I am thine in all love and union,</p>
+            <closer>
+               <signed>T. R.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:166746:5"/>
+            <head>From England.</head>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>IN whom I have much delight; although you are far diſtant in the ſhadow, yet I ſee you often in the ſubſtance, where Saints ap<g ref="char:EOLhyphen"/>pear, where Chriſt appears, in the glory, honor, and majeſty of God in eternal life; which eternal life once ſeen in God, it draws men in<g ref="char:EOLhyphen"/>to the inviſible world, the firſt and laſt creation, which ſhall in ſhort time be manifeſted to and in our mortal bodies; by which we ſhalbe changed into the age, and ſtature, and ſtrength of the world immortal in life eternal, which is this day coming amongſt us, even amongſt dead men, blind men, dumbe and deaf men: it will indeed appear firſt unto thoſe that are dead in this world. I ſay, to thoſe that are dead, and lying ſlain and crucified in this world, to all the evil and the good thereof; to the righteouſneſs, holineſs, wiſdom and glory; alſo to all evil which dwelleth ſpiritually in the thoughts and intentions of the heart, with all the filthy corruptions of the earthly man which dwell<g ref="char:EOLhyphen"/>eth in the polluted fleſh; that when we have <hi>beared about in our bodyes the dying of the Lord Jeſus, then the life of Ieſus ſhall againe be manifeſted in our mortal bodies;</hi> even when the Lord Jeſus ſhall cauſe his voice to be heard in the earth, ſaying, <hi>Thy Dead men ſhall live, even with my dead body ſhall they riſe: awake and ſing ye that dwell in the duſt.</hi> Oh the dead! it is they onely that ſhall live, the blinde onely ſhall ſee, the deaf they ſhall hear, and the dumb men they ſhall <hi>ſing the Lords ſong in the inward world with the holy ones, in the holy God, in heavenly places, in heavenly nature,</hi> invincible ſtrength, yet comprehenſible and attainable, for man ſhall receive that in reſtora<g ref="char:EOLhyphen"/>tion, which the heart of man could not conceive in the old creation, and that which never entered into the ſinful heart of man, ſhall infi<g ref="char:EOLhyphen"/>nitely dwell in men in the new creation (when the tabernacle of God is with men) and that which eye hath not ſeen, no not the Angels of God, (for they deſired to look into it) ſhall man behold with open face; and the depths of Gods wiſdom which was paſt finding out, ſhall through God be found in man, and man in it, even when God and man is made through Chriſt perfect in one, even when Chriſt ap<g ref="char:EOLhyphen"/>pears a perfect Church, and the Church appears a perfect Chriſt, and both in perfect God; this is the perfect union, which will be
+<pb n="3" facs="tcp:166746:5"/>manifeſted in man: then the mighty <hi>Immanuel</hi> ſhall be againe re<g ref="char:EOLhyphen"/>vealed, God with man, and man with God; to this end our Lord firſt appeared, that he might bring many ſons unto glory.</p>
+            <p>This was the work of the Goſpel, ſo to reveal and bring to light immortality and life unto the ſons of men, whoſe life is hid in God, and God is hid in man, but both ſhall be revealed: and this will be the everlaſting Goſpel that ſhall be preached unto men; even the power of the holy one which will make the people a willing people, to draw nigh unto the holy mount, to be adorned with the beauty of ho<g ref="char:EOLhyphen"/>lineſs. to put on the robes of righteouſneſs, and the garments of ſal<g ref="char:EOLhyphen"/>vation, and to enter in with Chriſt into the Wedding chamber, the immortal life, the Angelical world, or Celeſtial glory; yea, into the perfect prudenty of the inviſible, infinite, comprehenſible God; and this glorious and mighty one ſhall be revealed in us, and us in him: and both manifeſt unto the world, which will then appear; even the righteous nations that are ſaved ſhall behold God in the Majeſty of his holy people, even his ancient ones, who are the tabernacle of God, the throne of judgement: yea, his reſting place, alſo the Church and City into which <hi>the Gentiles ſhall bring their glory and honour into it, and the nations that are ſaved ſhall walk in the light thereof; for the law ſhall go forth of Sion, and the word of the Lord from Jeruſalem,</hi> and then ſhall be the time of truth and peace in the earth (the new earth) where the <hi>knowledge of the Lord ſhall cover it, as now the waters do the ſea.</hi> Oh Lord open the gates of thy love and life, that thy holy people may enter in; That the poor Gentiles which are thine, may receive life from the dead, and let this be the onely deſire of all the people of God, even all that are <hi>mindful of the Lord, and give him no reſt, till he hath made Jeruſalem the praiſe of the whole earth,</hi> and the glory and the light of the world, that the gentiles <hi>may come to her light, and kings to the brightneſs of her riſing up.</hi> But my deſire is not to ſpeak unto you in dead letters, which are but forms and ſhadows; but rather to ſpeak with you in the living word, in the morning Star, in the Son of Righteouſneſs, who is the Life-light, and power of God, which life and power is by ſome few of us in our parts wait<g ref="char:EOLhyphen"/>ed for, and we are drawn up, and are aſſembled together at the foot of the mount, to receive the law of God, which will be given forth again unto Iſrael: and here I reſt with you,</p>
+            <closer>
+               <signed>A. H.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:166746:6"/>
+            <head>From Scotland.</head>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>ALthough I cannot hear from you, yet I cannot but write unto you, though you need it not; but ſo it is, that that which is great can converſe with the meaneſt adminiſtration. That which I am to tell you, is this, That our joy is full, but what it is, is not to be ſpoken of here to any, but to that which lives in it (though it needs not) and that cannot ſpeak it out, becauſe the world cannot bear it as yet. For ſo ſaid Chriſt, there was a ſtriving, the one to ſit at the right hand, the other at the left, but the greateſt muſt be the leaſt, this they could not bear; and the leaſt is the greateſt with God, this men will not hear. Further, I finde our work done to our hand, our labour is paſt, yet we know it not; our Sabbath goes on daily, and is approaching, to put an end to all our labour, yet we muſt travel for a time till our Reſt be brought forth, and our re<g ref="char:EOLhyphen"/>joycing finiſhed. Yea further, our repentance to ſin no more, is come to our ſelves, whilſt others may judge us in our liberty; that is no evil to us; ſo that we may ſay, our lot is fain into a good ground, for the Kingdome that we waited for hath appeared, and is full, and nothing can add any thing to it (by way of ſacrifice) let men ſay or do what they will: and if we appear not what others would have us to be to them yet our kingdom maintaines us. For who can ſepa<g ref="char:EOLhyphen"/>rate the Lord from himſelf? Dear Sir, By this you may perceive how far I am gone, and where I reſt everyday; and let me tell you, if the Kingdome do inlarge it ſelf, you ſhall hear more from me; but it is ſo great with me, that for the preſent my pen is made dry, and I cannot deliver that which is now upon my ſpirit; for no fleſh is able to bear it, and I am fain to converſe with mean things, for fear it will be too hard for me. I confeſs I could ſpeak it to that which hath not an ear to hear, nor an eye to ſee, for that cannot be troubled, and that is ſatisfied already and made ſilent; and is it, or would be changed into that reſt, that being one, it might take its reſt, and live in it ſelf, as it was from everlaſting. O how great and happy is that which ſpake to <hi>Moſes</hi> when he was ſent of God in an errand to <hi>Pharaoh,</hi> telling him, <hi>I Am</hi> hath ſent thee, <hi>&amp;c.</hi> In that very hour I dyed being ſatisfied in what was ſpoken to <hi>Moſes,</hi> for <hi>Moſes</hi> was made ſilent, and <hi>Pharaoh</hi> muſt dye for it, yet his ſeed lives in perſecuting, but
+<pb n="5" facs="tcp:166746:6"/>knows it not, becauſe they go by the name of Iſrael, yet do <hi>Pharaohs</hi> work in perſecuting they know not what.</p>
+            <p>And becauſe the Lord is <hi>bringing forth himſelf in a way that he brought not forth himſelf in Iſrael;</hi> Iſrael alſo ſaith, It is not my father, but Iſrael is a child, and as yet does not know the Father, nor all the wayes and ſeveral diſpenſations of the Father. For the wind bloweth where it liſteth, and Iſrael knows it not, but the Lord is ſatisfied in the thing, and lives in his own will, whilſt Iſrael is a judg<g ref="char:EOLhyphen"/>ing of what men act for God: the ſtory you have in Iſrael and <hi>Pha<g ref="char:EOLhyphen"/>raoh;</hi> and little did Iſrael think whilſt it ſuffered under <hi>Pharaoh,</hi> that <hi>Pharaoh</hi> acted for God in puniſhing Iſrael; <hi>Pharaoh</hi> did the work of God in it to purpoſe, and yet <hi>Pharaoh</hi> knew it not, that it was the deſigne of God to deliver Iſrael, becauſe <hi>Pharaoh</hi> thought there was none but he that was greater; inſomuch as he in<g ref="char:EOLhyphen"/>quired of <hi>Moſes</hi> who was the Lord, and thought by that to deſtroy Iſrael; but as <hi>Pharaohs</hi> daughter was made on purpoſe to ſave <hi>Moſes,</hi> ſo Iſrael was made to be the deſtruction of <hi>Pharaoh.</hi> Yet further <hi>Pharaoh</hi> is ſicke of Iſrael, and for that purpoſe beſpeaks the Midwifes, that when the women are upon the ſtool, and they finde it <hi>a male,</hi> that they deſtroy it: but had <hi>Pharaoh</hi> known that the Midwifes were the Lords, and that he had firſt beſpoken them, he would never have been ſo ſimple as to have medled with Iſrael: what ſhall I ſay? <hi>Pharaoh</hi> is ſick of Iſrael, Iſrael judging the father, but did <hi>Pharaoh</hi> or Iſrael know where our reſt was, and what it is unto us in all conditions, they would be quiet, for that the Lord is too hard for every thing that is formed againſt him: and if it be ſo that no weapon formed againſt the Almighty can proſper, doubtleſs then it is good to be in him alone, and nowhere elſe. To bed then now, for 'tis <hi>Night,</hi> lets lye down both in his boſome, and ſleep till the <hi>morn<g ref="char:EOLhyphen"/>ing,</hi> when we ſhall <hi>riſe together;</hi> in mean time I reſt,</p>
+            <closer>
+               <signed>Yours <hi>E. W.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:166746:7"/>
+            <head>To an afflicted Woman, or Be<g ref="char:EOLhyphen"/>wilderneſſed Saint.</head>
+            <opener>
+               <salute>Chriſtian Friend,</salute>
+            </opener>
+            <p>MY beſt love ſalutes you in the Lord, with thanks for your loving lines. I underſtand by your letter that <hi>you walk alone in the dark,</hi> which is indeed a ſolitary &amp; ſad condition, firſt to <hi>walk alone,</hi> but then again to <hi>walk alone in the dark,</hi> is to the <hi>fleſh</hi> a dreadful ſtate: but both in the <hi>ſpirit</hi> is full of glory and joy alſo, if you could ſee but <hi>God</hi> in both. Firſt, to be ſolitary and <hi>walk alone is a wilderneſs condition,</hi> which with God is the moſt comfortable ſtate. <hi>I will allure her and bring her to the wilderneſs, and ſpeak comfortably to her,</hi> Hoſ. 2.14. com<g ref="char:EOLhyphen"/>munion of Saints and the company of men is ſweet to fleſh, ſweet to man to walk with men, but thats <hi>no wil<g ref="char:EOLhyphen"/>derneſs where company or path</hi> is before us; but when we can ſee none with us but God, and <hi>God leading us in a way we know not of,</hi> this is ſweet to a Saint in ſpirit; therefore God is ſaid <hi>to allure</hi> before, to allure us from the ſweetneſs of man, to the ſweetneſs of himſelf, and of his divine preſence dwelling with us and in us. For truely in that <hi>Apoſtacy</hi> we now are, we cannot company with men, no <hi>not with Saints in ſpiritual worſhips,</hi> but we ſhall commit <hi>ſpiritual whoredome</hi> with them, this was typified by that of the prophet, who was to <hi>take a whore to his wife,</hi> Hoſ. 3.1. ſignifying the ſtate of the
+<pb n="7" facs="tcp:166746:7"/>Church then, and now alſo, being in <hi>Babylon</hi> the great whore, which is nothing but the forms of do<g ref="char:EOLhyphen"/>ctrine, and worſhips in which the Saints are embond<g ref="char:EOLhyphen"/>aged thoſe being the <hi>fleſh of the whore to be conſumed with fire,</hi> with the ſpirit at laſt: but ſaith the prophet, <hi>Thou ſhalt abide for me many dayes, thou ſhall not play the harlot, and thou ſhalt not be for another man, ſo will I alſo be for thee,</hi> Hoſ. 3.3. The prophet ſpeaks in the per<g ref="char:EOLhyphen"/>ſon of God to his people, ſaying, Thou ſhalt not be for another man, or as 'tis better read in the Hebrew, <hi>Thou ſhalt not be for man, ſo I (ſaith God) will be for thee,</hi> that is, while we are not alone with God, and for God onely, but will be for man and <hi>with man,</hi> we muſt needs <hi>play the harlot,</hi> and dote on man too much, therefore ſaith he, <hi>Thou ſhalt abide for me many dayes.</hi> How is that? the next verſe ſhews, <hi>verſ.</hi> 4. <hi>The children of Iſrael ſhall abide many dayes without a King, and without a Prince, and without a ſacrifice, and without an image, and without an Ephod, and without a Teraphim,</hi> that is, without all men or means, without ordinance or Church officer, for that's the King or Prince; without ſacrifice or ordi<g ref="char:EOLhyphen"/>nance; yea, without an Ephod, the leaſt and loweſt means to ſeek God by, ſhould not be found: <hi>afterward they ſhall return and ſeek the Lord then God, and David their King and fear the Lord and his goodneſs in the latter dayes,</hi> that is, when we are bewilderneſſed, and at a loſs in all things, that we <hi>cannot look on any man, nor find God in any means,</hi> then we will ſeek <hi>the Lord our God, God dwelling in us, that's David our King,</hi> God in our fleſh.</p>
+            <p>But next you ſay, you are in the dark, how then can you ſee, or ſay that God dwells in you, or delights in your fleſh, to take that into ſuch union with himſelf? Surely (ſiſter) you are his <hi>Hephzibah and Beula,</hi> that is,
+<pb n="8" facs="tcp:166746:8"/>the Lord indeed <hi>dwells and delights</hi> in you, and your <hi>land is alſo married to God:</hi> God is in perfect union with <hi>your fleſh,</hi> that's <hi>your land,</hi> yea the <hi>land of the Lord,</hi> though you ſee not this, being in the dark. But againe, <hi>God dwells in the dark as well as in light, light and darkneſs is all one with him,</hi> yea <hi>Heaven and Hell</hi> alſo with God, and with men alſo who live in God alone, 'tis all one with them however they be, or where they are, they are ſtill in God, ſit down in his will, his will is theirs, for they dwell in God, and God in them, even in their darkeſt condition. <hi>If I go up to Heaven, thou art there; and if I go down to hell, alſo thou art there, Lord.</hi> Heaven and hell are things men much miſtake in, for <hi>David</hi> was ſometimes in heaven, and in hell alſo when he was in weakneſs, but then when he was in ſpirit and ſtrength, and ſpiri<g ref="char:EOLhyphen"/>tual joy, he was in heaven; he could <hi>go up and down, to heaven or hell,</hi> and whereever he was, he was ſtill in God, and God dwelt in him when he was in the dark<g ref="char:EOLhyphen"/>eſt ſtate, <hi>Pſal.</hi> 139. This is a word full of comfort (if God ſpake it in you) that <hi>God dwells as glorious in a Saint when he is in the dark, as when he is in light (Yea in darkneſs the Lord ſhall be my light,</hi> Mich. 7.8.) <hi>for as darkneſs is his ſe<g ref="char:EOLhyphen"/>cret place, and his pavilion round about him are dark waters,</hi> Pſal. 18.11. ſo pavilions are places for princes, and God retyres to his ſecret chamber of preſence, when he brings a poor ſoul to the dark, there God dwells moſt gloriouſly, as you may read, <hi>Iſa.</hi> 57.15. <hi>the high and holy place</hi> there, is that heart which has the glorious en<g ref="char:EOLhyphen"/>joyment of God with exceeding joy and conſtant <hi>peace; the contrite</hi> and humble ſpirit is that which is <hi>ſhaken and ſhivered to pieces, ground to pouder, that's contrite,</hi> yet there God inhabits, even in the humble, in the loweſt heart, as the words ſignifie, for the humble heart is not an ex<g ref="char:EOLhyphen"/>cellency
+<pb n="9" facs="tcp:166746:8"/>(as men interpret it to be humble) but a low poor dark ſpirit, that is even ſtark dead, that's the hum<g ref="char:EOLhyphen"/>ble, therefore God is ſaid there <hi>to revive</hi> it, and how is that? but by <hi>revealing himſelf to dwell there in glory.</hi> Se<g ref="char:EOLhyphen"/>condly, when God retires himſelf into the dark, and draws the heart there to dwell with him, Oh how gloriouſly doth God teach a man then? <hi>Pſal.</hi> 16.7. <hi>I will bleſs the Lord who giveth me counſel, my reins inſtruct me in the night ſeaſon;</hi> there's a night in man as well as a day, darkneſs as well as light: now in the night ſea<g ref="char:EOLhyphen"/>ſon, in the <hi>darkeſt ſtate, God teacheth men moſt,</hi> that's my reins inſtruct me, not the reins of my back, but God dwelling in me, and revealing himſelf in me inſtructs me more then all the teachings of men, theſe cannot come to me nor counſel me in the dark; but God can do it, and doth: I will bleſs the Lord who giveth me counſel. That's the meaning of <hi>Pſa.</hi> 19.2. Day to day uttereth ſpeech, and night unto night teacheth knowledge, that is, the glory of God revealed to us in the dark, in the night, gives more knowledge unto us, then men who ſpeak with moſt light, and lan<g ref="char:EOLhyphen"/>guage.</p>
+            <p>The laſt thing that I would ſpeak (but I muſt be ſi<g ref="char:EOLhyphen"/>lent) is this, that God will yet give you to ſee not only the glory, and knowledge of God, but comfort alſo in the dark, ye ſhall have a ſong, as in the night, when a holy ſolemnity is kept, and gladneſs of heart, <hi>&amp;c. Iſa.</hi> 30.29. when's this joy? that ſong? in the Night; not onely in the night of the Nation, as 'tis now, <hi>verſ.</hi> 27, 28. but in your darkeſt condition you ſhall have joy in God. Therefore 'tis ſaid, ye ſhall have a ſong in the night, when the holy ſolemnity is kept: the ſolemn feaſts of the Heathens, and holy
+<pb n="80" facs="tcp:166746:9"/>feaſts of Saints alſo under the law were in the night not onely of Paſſeover but the Lords Supper; 'tis a my<g ref="char:EOLhyphen"/>ſtery, that in the darkeſt night we ſhall merrily feaſt on God: and ſo farewell.</p>
+            <closer>
+               <signed>Yours <hi>W. E.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>A Triple Plea: OR, The Song of an old Saint. <hi>T. C.</hi>
+            </head>
+            <lg>
+               <l>LAw, Phyſick, and Divinity,</l>
+               <l>Were at a jar, could not agree;</l>
+               <l>To prove which of all three</l>
+               <l>Should have the ſuperiority.</l>
+            </lg>
+            <lg>
+               <l>Law pleads it preſerves men lands,</l>
+               <l>And their goods from ravenous hands.</l>
+               <l>Therefore of right challengeth he</l>
+               <l>To have the ſuperiority.</l>
+            </lg>
+            <lg>
+               <l>Phyſick preſcribes receits for health,</l>
+               <l>Which men prefer before their wealth;</l>
+               <l>Therefore of right chalengeth he</l>
+               <l>To have the ſuperiority.</l>
+            </lg>
+            <lg>
+               <l>Then ſteps up the prieſts demure,</l>
+               <l>That of mens ſouls takes care and cure:</l>
+               <l>Therefore of right challengeth he</l>
+               <l>To have the ſuperiority.</l>
+            </lg>
+            <lg>
+               <l>Let Judges judge this <hi>Triple Plea;</hi>
+               </l>
+               <l>Then Lawyers ſhall bear all the ſway,</l>
+               <l>Let Empyrickes their verdict give</l>
+               <l>Phyſicions moſt of all ſhould thrive.</l>
+            </lg>
+            <lg>
+               <l>Let Biſhops be judge in this caſe,</l>
+               <l>Then Prieſts ſhall have the higheſt place.</l>
+               <l>Let honeſt, ſober, wiſe men, judge,</l>
+               <l>Then all theſe three away may trudge.</l>
+            </lg>
+            <lg>
+               <l>For let men live in peace and love,</l>
+               <l>The Lawyers trickes they need not prove.</l>
+               <l>Let men forbear exceſs and ryot,</l>
+               <l>They need not live by phyſicks dyet.</l>
+            </lg>
+            <lg>
+               <l>Let men attend what God doth teach,</l>
+               <l>They need not care what Prieſt doth preach.</l>
+               <l>But if men fools and knaves will be,</l>
+               <l>They ſhall be Aſs-ridden of all three.</l>
+            </lg>
+            <bibl>
+               <hi>Th. C.</hi>
+            </bibl>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
